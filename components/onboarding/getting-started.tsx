@@ -59,7 +59,7 @@ export function GettingStarted() {
           href="/signup"
           className={cn(
             buttonVariants({ size: 'lg' }),
-            'h-12 gap-2 rounded-lg px-8 text-base font-semibold shadow-[0_0_0_1px_rgba(255,255,255,0.1),0_8px_30px_-8px_rgba(167,139,250,0.45)]',
+            'h-12 gap-2 rounded-lg px-8 text-base font-semibold shadow-[0_8px_24px_-8px_rgba(79,70,229,0.55)] dark:shadow-[0_0_0_1px_rgba(255,255,255,0.1),0_8px_30px_-8px_rgba(167,139,250,0.45)]',
           )}
         >
           Get Started
